@@ -53,3 +53,19 @@
     width: 220px;
     height: 220px;
   }
+
+  .products-h3 {
+    font-size: 30px;
+    line-height: 36px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+
+  .products-boxes div {
+    margin-bottom: 24px;
+  }
+  
+  .products-boxes img {
+    width: 468px;
+    height: 424px;
+  }
