@@ -22,6 +22,26 @@
     background-color: #2C3139;
   }
 
+  .search-icon-image {
+    width: 28.44px;
+    height: 32.85px;
+  }
+
+  .favorites-image {
+    width: 37px;
+    height: 34px;
+  }
+
+  .shopping-cart-image {
+    width: 40px;
+    height: 40px;
+  }
+
+  .account-image {
+    width: 40px;
+    height: 44.11px;
+  }
+
   .language-selector {
     color: #FFFFFF;
   }
