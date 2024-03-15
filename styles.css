@@ -31,3 +31,9 @@
     height: 1080px;
     margin-bottom: 24px;
   }
+
+  .popular-categories h2 {
+    font-size: 50px;
+    line-height: 58.59px;
+    letter-spacing: 0px;
+  }
