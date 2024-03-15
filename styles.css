@@ -79,6 +79,7 @@
     line-height: 36px;
     margin-top: 24px;
     margin-bottom: 24px;
+    margin-left: 140px;
   }
 
   .products-boxes div {
@@ -88,4 +89,8 @@
   .products-boxes img {
     width: 468px;
     height: 424px;
+  }
+
+  .sorting p {
+    margin-left: 1443px;
   }
