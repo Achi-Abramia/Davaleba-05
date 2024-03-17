@@ -58,6 +58,7 @@
     letter-spacing: 0px;
     margin-left: 140px;
     margin-bottom: 24px;
+    font-weight: 600;
   }
 
   .beds-headboards-image,
@@ -74,12 +75,22 @@
     height: 220px;
   }
 
-  .products-h3 {
+  .products-h3 h3 {
     font-size: 30px;
     line-height: 36px;
     margin-top: 24px;
     margin-bottom: 24px;
     margin-left: 140px;
+    font-weight: 500;
+  }
+
+  .tables-h3 h3,
+  .chairs-h3 h3,
+  .benches-h3 h3 {
+    font-size: 16px;
+    line-height: 19.2px;
+    letter-spacing: 0px;
+    font-weight: 400;
   }
 
   .products-boxes div {
